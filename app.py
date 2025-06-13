@@ -1,10 +1,12 @@
 import sys
-
 from PyQt6.QtWidgets import QApplication
 from src.vista.GUI_ui import Dialogo
 
-if __name__ == '__main__':
+def main():
     app = QApplication(sys.argv)
-    dialogo=Dialogo()
-    dialogo.show()
+    ventana = Dialogo()
+    ventana.show()
     sys.exit(app.exec())
+
+if __name__ == '__main__':
+    main()
