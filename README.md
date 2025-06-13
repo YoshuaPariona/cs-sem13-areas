@@ -20,8 +20,8 @@ Una aplicación simple desarrollada en Python para calcular áreas de diferentes
 
 1. Clona este repositorio:
 
-git clone https://github.com/tu_usuario/calculadora-geometrica.git
-cd calculadora-geometrica
+git clone https://github.com/YoshuaPariona/cs-sem13-areas.git
+cd cs-sem13-areas
 
 2. Instala las dependencias necesarias:
 
